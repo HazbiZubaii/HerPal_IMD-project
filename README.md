@@ -42,6 +42,35 @@ menstrual journey
 · Doctor's Appointment: A feature to book appointment with nearby
 gynac during emergencies.
 
+## Backend:
+
+Node.js: Backend runtime for server-side logic and API management.
+
+Flask API: To serve the MobileNetV2 model and connect Python-based services to the frontend.
+
+Firebase Database: To store user data and application information.
+
+## Machine Learning:
+
+MobileNetV2: Pre-trained deep learning model for image recognition and transfer learning.
+
+Python: Programming language for training and fine-tuning the MobileNetV2 model.
+
+TensorFlow/Keras: For implementing and training the machine learning model.
+
+## Data Storage:
+
+Firebase Realtime Database: To store application-specific data.
+
+Firebase Cloud Storage (if needed): For storing image uploads or large datasets.
+
+## chatbot integration-Natural Language Processing (NLP):
+Pre-trained Large Language Models (LLMs)
+
+Python: For NLP model integration and fine-tuning.
+
+SpaCy/NLTK: For preprocessing, tokenization, and other NLP tasks if needed.
+
 ## To Start the project:
 
 open a new terminal in your compiler.
