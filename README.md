@@ -10,6 +10,9 @@ to navigate their menstrual
 health with confidence and
 ease.
 
+This project is made by Hasbi Fathima VP,E22CSEU0750
+
+
 ## Innovative Solutions Offered
 
 .Image Upload & Process of Image Recognition: Users will take a snap of
