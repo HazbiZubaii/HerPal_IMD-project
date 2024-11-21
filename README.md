@@ -47,6 +47,6 @@ gynac during emergencies.
 open a new terminal in your compiler.
 Then code:
 
-  cd herpal
+  cd herpal_frontend
   
   npm start
