@@ -82,3 +82,8 @@ Then code:
   cd herpal_frontend
   
   npm start
+
+## Model Performance & Accuracy
+Model	Task	Dataset	Accuracy
+MobileNetV2	Product Recognition	Custom Dataset (400+ Images)	98.5%
+NLP Chatbot	Question Answering	Pre-trained LLM + Custom Queries	90.7%
