@@ -1,5 +1,7 @@
 ## Introduction to HerPal
 
+demo video: https://drive.google.com/file/d/1rBvTGxukLaPF5jcZRTeg1eYyRq_NritJ/view?usp=sharing
+
 HerPal is dedicated to advancing
 safety and well-being for young
 women through innovative
